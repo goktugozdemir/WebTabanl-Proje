@@ -15,10 +15,16 @@ Html
 Javascript
 
 Resim ve Ses kaynakları
+
 Karakter: https://thkaspar.itch.io/tth-animals
+
 Kuş: https://ma9ici4n.itch.io/pixel-art-bird-16x16
+
 Canavar: https://arcadeisland.itch.io/endless-runner-asset-pack
+
 Arka plan: https://ar.pinterest.com/pin/459930180690733233/ 
+
 Ön plan: https://ansimuz.itch.io/parallax-forest
+
 Ses: https://gooseninja.itch.io/minimalistc-loops
 
