@@ -9,7 +9,7 @@ Sağ ve sol ok tuşları ile sağ ve sola haraket yapılır. Üst ok tuşu ile y
 
 Amaç
 Gelen kuşlardan yaratığa ve ekranın sınırlarına değmeden kaçmaktır.
-
+![Resim](https://user-images.githubusercontent.com/56187372/117824633-531a0a80-b277-11eb-9a9a-a8c000029a77.png)
 
 Teknolojiler
 Html
